@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+  }
+
+
+
+
+
+.bg-image {
+    height: 100vh;
+    background-color: lightblue;
+}
+
+h1{
+    margin-bottom: 20px;
+}
+
+.action_btn {
+    margin-bottom: 20px;
+}
